@@ -1,0 +1,1 @@
+public record QuizCard(String question, String answer) {}
